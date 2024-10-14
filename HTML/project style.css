@@ -1,0 +1,49 @@
+.Eh {
+font-family: 'Times New Roman', Times, serif;
+font-size: 25px;
+text-align: justify;
+}
+.Oh {
+    background: linear-gradient(90deg, rgba(10,247,245,1) 14%, rgba(38,11,251,1) 35%, rgba(252,14,250,1) 66%, rgba(10,247,245,1) 90%);
+    -webkit-background-clip: text;
+    color: transparent;
+    font-size: 37px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.Ah {
+    color: darkred;
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 30%, rgba(0,212,255,1) 75%);
+    padding: 10px;
+    border-radius: 20px;
+    width: fit-content;
+    position: relative;
+    margin: 0% auto;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+.Ih{
+    color: rgba(193, 22, 227, 0.836);
+    background-color: rgba(240, 255, 255, 0.303);
+    padding: 7px;
+    border-radius: 30%;
+}
+.Aah{
+    color: red;
+    font-size: 23px;
+    font-family: 'Times New Roman', Times, serif;
+    text-align: justify;
+}
+.Ouh{
+    font-size: 36px;
+    font-weight: bold;
+    background-image: linear-gradient(to right, #ff7e5f, #feb47b);
+    -webkit-background-clip: text;
+    color: transparent;
+}
+body {
+    background: rgb(245,120,2);
+    background: linear-gradient(90deg, 
+    rgba(245,120,2,1) 0%, 
+    rgba(11,240,37,1) 50%, 
+    rgba(236,13,78,1) 100%);
+}
